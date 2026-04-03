@@ -55,7 +55,7 @@ This project analyzes airline passenger, route, and ticket datasets to derive op
 
 ---
 
-## Contact
+## Author 
 **Name:** Prem Tiwary  
 **Email:** premtiwary7050@gmail.com 
 **LinkedIn:** www.linkedin.com/in/prem-tiwary
